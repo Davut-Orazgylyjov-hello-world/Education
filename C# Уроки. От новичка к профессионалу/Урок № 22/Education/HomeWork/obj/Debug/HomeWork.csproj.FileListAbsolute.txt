@@ -1,0 +1,6 @@
+E:\Education\C# Уроки. От новичка к профессионалу\Урок № 22\Education\HomeWork\bin\Debug\HomeWork.exe
+E:\Education\C# Уроки. От новичка к профессионалу\Урок № 22\Education\HomeWork\bin\Debug\HomeWork.pdb
+E:\Education\C# Уроки. От новичка к профессионалу\Урок № 22\Education\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+E:\Education\C# Уроки. От новичка к профессионалу\Урок № 22\Education\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+E:\Education\C# Уроки. От новичка к профессионалу\Урок № 22\Education\HomeWork\obj\Debug\HomeWork.exe
+E:\Education\C# Уроки. От новичка к профессионалу\Урок № 22\Education\HomeWork\obj\Debug\HomeWork.pdb
