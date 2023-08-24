@@ -1,6 +1,0 @@
-E:\Education\C# Уроки. От новичка к профессионалу\Урок №7\Education\Education\bin\Debug\Education.exe
-E:\Education\C# Уроки. От новичка к профессионалу\Урок №7\Education\Education\bin\Debug\Education.pdb
-E:\Education\C# Уроки. От новичка к профессионалу\Урок №7\Education\Education\obj\Debug\Education.csproj.AssemblyReference.cache
-E:\Education\C# Уроки. От новичка к профессионалу\Урок №7\Education\Education\obj\Debug\Education.csproj.CoreCompileInputs.cache
-E:\Education\C# Уроки. От новичка к профессионалу\Урок №7\Education\Education\obj\Debug\Education.exe
-E:\Education\C# Уроки. От новичка к профессионалу\Урок №7\Education\Education\obj\Debug\Education.pdb
