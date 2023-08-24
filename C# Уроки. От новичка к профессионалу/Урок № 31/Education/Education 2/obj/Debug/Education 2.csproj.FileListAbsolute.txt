@@ -1,0 +1,7 @@
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 31\Education\Education 2\bin\Debug\Education_2.exe
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 31\Education\Education 2\bin\Debug\Education_2.pdb
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 31\Education\Education 2\obj\Debug\Education 2.csproj.AssemblyReference.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 31\Education\Education 2\obj\Debug\Education 2.csproj.SuggestedBindingRedirects.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 31\Education\Education 2\obj\Debug\Education 2.csproj.CoreCompileInputs.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 31\Education\Education 2\obj\Debug\Education_2.exe
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 31\Education\Education 2\obj\Debug\Education_2.pdb
