@@ -1,0 +1,7 @@
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 46\Education\Home work Params\bin\Debug\Home_work_Params.exe
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 46\Education\Home work Params\bin\Debug\Home_work_Params.pdb
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 46\Education\Home work Params\obj\Debug\Home work Params.csproj.AssemblyReference.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 46\Education\Home work Params\obj\Debug\Home work Params.csproj.SuggestedBindingRedirects.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 46\Education\Home work Params\obj\Debug\Home work Params.csproj.CoreCompileInputs.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 46\Education\Home work Params\obj\Debug\Home_work_Params.exe
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 46\Education\Home work Params\obj\Debug\Home_work_Params.pdb

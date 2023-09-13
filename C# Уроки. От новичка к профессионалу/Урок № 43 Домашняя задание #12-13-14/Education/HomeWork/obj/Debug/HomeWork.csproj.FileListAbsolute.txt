@@ -1,0 +1,14 @@
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43\Education\HomeWork\bin\Debug\HomeWork.exe
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43\Education\HomeWork\bin\Debug\HomeWork.pdb
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43\Education\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43\Education\HomeWork\obj\Debug\HomeWork.csproj.SuggestedBindingRedirects.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43\Education\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43\Education\HomeWork\obj\Debug\HomeWork.exe
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43\Education\HomeWork\obj\Debug\HomeWork.pdb
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43 Домашняя задание #12-13-14\Education\HomeWork\bin\Debug\HomeWork.exe
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43 Домашняя задание #12-13-14\Education\HomeWork\bin\Debug\HomeWork.pdb
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43 Домашняя задание #12-13-14\Education\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43 Домашняя задание #12-13-14\Education\HomeWork\obj\Debug\HomeWork.csproj.SuggestedBindingRedirects.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43 Домашняя задание #12-13-14\Education\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43 Домашняя задание #12-13-14\Education\HomeWork\obj\Debug\HomeWork.exe
+E:\Programs\Education\C# Уроки. От новичка к профессионалу\Урок № 43 Домашняя задание #12-13-14\Education\HomeWork\obj\Debug\HomeWork.pdb
